@@ -10,7 +10,7 @@ Which products, countries and payment methods drive revenue, and how reliable is
 Download the workbook [Here!](E_COMMERCE%20DATASET.xlsl)
 
 ### Excel Skills used:
--** Vlookup
--** IF, AND, OR
--** COUNTIF, COUNTIFS
--** SUMIFS, AVERAGEIF
+-** Vlookup**
+-** IF, AND, OR**
+-** COUNTIF, COUNTIFS**
+-** SUMIFS, AVERAGEIF**
