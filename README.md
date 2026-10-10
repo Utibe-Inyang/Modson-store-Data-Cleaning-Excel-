@@ -14,3 +14,10 @@ Download the workbook [Here!](E_COMMERCE%20DATASET.xlsl)
 - IF, AND, OR
 - COUNTIF, COUNTIFS
 - SUMIFS, AVERAGEIF
+
+### Ecommerce Dataset
+The dataset used for this project contains real-world e-commerce information which includes detailed product information on:
+Order ID, Order Date, Customer Name, Country, City, Product Category, Product Name, Quantity, Unit Price, Discount, Total Sales, 
+Payment Method, Order Status, Delivery Date, Customer Rating
+
+
