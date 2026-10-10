@@ -11,6 +11,6 @@ Download the workbook [Here!](E_COMMERCE%20DATASET.xlsl)
 
 ### Excel Skills used:
 - **Vlookup
--**IF, AND, OR
--** COUNTIF, COUNTIFS**
--** SUMIFS, AVERAGEIF**
+- **IF, AND, OR
+- **COUNTIF, COUNTIFS
+- **SUMIFS, AVERAGEIF
