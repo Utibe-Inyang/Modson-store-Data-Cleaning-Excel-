@@ -23,7 +23,7 @@ Payment Method, Order Status, Delivery Date, Customer Rating
 ## 1. Data Cleaning
 ### Duplicate Values:
 Six duplicate values across the rows and columns was identified and cleaned. 
-[Duplicate](screenshots/duplicate_values)
+[Duplicate](screenshots/duplicate_values.png)
 
 
 
