@@ -20,4 +20,9 @@ The dataset used for this project contains real-world e-commerce information whi
 Order ID, Order Date, Customer Name, Country, City, Product Category, Product Name, Quantity, Unit Price, Discount, Total Sales, 
 Payment Method, Order Status, Delivery Date, Customer Rating
 
+## 1. Data Cleaning
+### Duplicate Values:
+There exists six duplicate values across the rows and columns, and it was cleaned
+
+
 
