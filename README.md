@@ -1,5 +1,4 @@
-<img width="1339" height="502" alt="image" src="https://github.com/user-attachments/assets/b973079d-ee12-49ed-853f-b8041a750e6c" /># Modson store Data Cleaning (Excel)
-Cleaning Modsone E-commerce store dataset
+# Cleaning Modsone E-commerce store dataset
 
 ### INTRODUCTION 
 Cleaning Modson store messy e-commerce orders dataset in Excel, checking it for errors, and turning it into sales insights.
@@ -61,6 +60,9 @@ There are inconsistent data in
   ![delivery_date](Screenshots/delivery_date.png)
 
   ![cus_name](Screenshots/cus_name.png)
+
+
+  ## Formulas and Functions
   
 
 
