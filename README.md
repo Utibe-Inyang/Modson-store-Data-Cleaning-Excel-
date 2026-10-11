@@ -99,5 +99,5 @@ There are inconsistent data in
 
 So  the headache here is;  Should we go with the Product Name or the original Product category for our Analysis?
 
-- Order Date should be greater than or equal to Delivery Date, but in some cases, they are not so. 
+- Order Date should be less than or equal to Delivery Date, but in some cases, they are not so. 
 Therefore, to get optimum insights, this data MUST be sent back to the store manager to resolve those clashes
