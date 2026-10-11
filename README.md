@@ -1,4 +1,4 @@
-# Modson store Data Cleaning (Excel)
+<img width="1339" height="502" alt="image" src="https://github.com/user-attachments/assets/b973079d-ee12-49ed-853f-b8041a750e6c" /># Modson store Data Cleaning (Excel)
 Cleaning Modsone E-commerce store dataset
 
 ### INTRODUCTION 
@@ -40,8 +40,10 @@ There are inconsistent data in
 
 ### Data Quality Issues
 - Discount stored as 20 instead of 20%
+- Discount exceeds 100
 - Dates stored as text
 - Category label did not match the product code
+- Day and month swapped	in Order Date column
 - Customer rating greater than 5
 - Negative number in quantity
 - Order Date should be greater than or equal to Delivery Date, but in some cases, they are not so.
@@ -49,7 +51,17 @@ There are inconsistent data in
    ![discount](Screenshots/discount.png)
 
 
+### Missing values
+- Missing rating
+- Missing delivery date
+- Missing customer name
 
+  ![cus_rating](Screenshots/cus_rating.png)
+
+  ![delivery_date](Screenshots/delivery_date.png)
+
+  ![cus_name](Screenshots/cus_name.png)
+  
 
 
 
