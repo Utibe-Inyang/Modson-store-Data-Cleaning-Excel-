@@ -6,7 +6,7 @@ Cleaning Modson store messy e-commerce orders dataset in Excel, checking it for 
 ### Business question: 
 Which products, countries and payment methods drive revenue, and how reliable is the data behind those numbers?
 
-Download the workbook [Here!](E_COMMERCE%20DATASET.xlsx)
+Here is the workbook with sheets containing the functions and cleaned dataset [Raw and cleaned data!](E_COMMERCE%20DATASET.xlsx)
 
 ### Excel Skills used:
 - Vlookup()
@@ -62,7 +62,6 @@ There are inconsistent data in
 
 
   ## Formulas and Functions
-  The functions and formulas used are found in the [Cleaned](E_COMMERCE%20DATASET.xlsx) Sheet of the excel workbook
   - I used this function to extract the first four product code from Product Name column
   ```
   =LEFT([@[Product Name]],FIND("-",[@[Product Name]])-1)
