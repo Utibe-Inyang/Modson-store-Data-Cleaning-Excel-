@@ -27,7 +27,10 @@ Using the Order ID column, Six duplicate values was identified and cleaned.
 ![duplicate](Screenshots/duplicate_values.png)
 
 
--** Country Column:** Inconsistent spellings (NIGERIA, nigeria, UK, United Kingdom)
+### Country Column:
+Inconsistent spellings (NIGERIA, nigeria, UK, United Kingdom)
+
+![duplicate](Screenshots/country.png)
 
 
 
