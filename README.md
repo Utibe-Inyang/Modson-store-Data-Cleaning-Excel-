@@ -69,18 +69,18 @@ There are inconsistent data in
   ```
 
   - I use the function below to return the correct Cleaned Product Category for each extracted four letter Product code
+    
     ```
     =VLOOKUP(I140,REPORT!$B$1:$C$4,2,FALSE)
-   ```
-- The function below compares the Original Product Category with the Cleaned Product Category column
-
-  ```
-   =IF(F140=J140,"Match","Mismatch")
-  ```
+         ```
+   - The function below compares the Original Product Category with the Cleaned Product Category column
+     ```
+      =IF(F140=J140,"Match","Mismatch")
+     ```
   
    - The function below checks whether the Order Date is less than or equal to the Delivery Date (Which is logically right)
      ```
      =IF(B2<=R2,"YES","NO")
-     ```
+        ```
 
 
