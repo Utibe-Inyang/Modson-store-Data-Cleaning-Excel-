@@ -82,4 +82,14 @@ There are inconsistent data in
      =IF(B2<=R2,"YES","NO")
         ```
 
+### Observation
+
+- Valid, non-cancelled orders brought in 182,974 from 142 orders, an average order value of 1,289.
+- Electronics earned the most (79,635, 44% of revenue). Home & Kitchen earned the least (24,879).
+- Nigeria leads with 64,325 (35% of revenue). Ghana is the smallest market (15,900).
+- Sales peaked in September (21,405) and were lowest in January (9,252).
+- Credit Card is the most used method (69 orders, 49%). Cash is the least used.
+- 15% of all orders were cancelled and 17% are still pending, so about 32% of orders are not producing revenue yet.
+- Average rating is 3.20 out of 5, and 43% of valid ratings are 4 or 5. Delivered orders took 18.2 days on average to arrive.
+- 26 of 191 rows (14%) were excluded from revenue because of impossible values. The category label disagreed with the product code in 133 rows (70%)
 
