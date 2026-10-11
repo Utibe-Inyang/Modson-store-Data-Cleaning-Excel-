@@ -9,10 +9,9 @@ Which products, countries and payment methods drive revenue, and how reliable is
 Download the workbook [Here!](E_COMMERCE%20DATASET.xlsl)
 
 ### Excel Skills used:
-- Vlookup
-- IF, AND, OR
-- COUNTIF, COUNTIFS
-- SUMIFS, AVERAGEIF
+- Vlookup()
+- IF()
+- LEFT(), FIND()
 
 ### Ecommerce Dataset
 The dataset used for this project contains real-world e-commerce information which includes detailed product information on:
