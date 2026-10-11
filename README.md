@@ -37,15 +37,16 @@ There are inconsistent data in
 
 ![inconsistency](Screenshots/inconsistency.png)
 
+
 ### Data Quality Issues
 - Discount stored as 20 instead of 20%
-  ![discount](Screenshots/discount.png)
-  
 - Dates stored as text
 - Category label did not match the product code
 - Customer rating greater than 5
 - Negative number in quantity
 - Order Date should be greater than or equal to Delivery Date, but in some cases, they are not so.
+
+   ![discount](Screenshots/discount.png)
 
 
 
