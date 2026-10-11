@@ -22,9 +22,12 @@ Payment Method, Order Status, Delivery Date, Customer Rating
 
 ## 1. Data Cleaning
 ### Duplicate Values:
-Six duplicate values across the rows and columns was identified and cleaned. 
+Using the Order ID column, Six duplicate values was identified and cleaned.
+
 ![duplicate](Screenshots/duplicate_values.png)
 
+
+-** Country Column:** Inconsistent spellings (NIGERIA, nigeria, UK, United Kingdom)
 
 
 
