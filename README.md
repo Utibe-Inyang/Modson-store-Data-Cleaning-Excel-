@@ -28,10 +28,26 @@ Using the Order ID column, Six duplicate values was identified and cleaned.
 
 
 ### Inconsistent values:
-There are inconsistent data in Country column, Product category, Payment Method, and Order Status
+There are inconsistent data in 
+- Country 
+- Product category 
+- Payment Method 
+- Order Status
 
 
-![duplicate](Screenshots/inconsistency.png)
+![inconsistency](Screenshots/inconsistency.png)
+
+### Data Quality Issues
+- Discount stored as 20 instead of 20%
+  ![discount](Screenshots/discount.png)
+  
+- Dates stored as text
+- Category label did not match the product code
+- Customer rating greater than 5
+- Negative number in quantity
+- Order Date should be greater than or equal to Delivery Date, but in some cases, they are not so.
+
+
 
 
 
