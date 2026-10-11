@@ -84,6 +84,21 @@ There are inconsistent data in
 
 ### Observation
 
+After Cleaning the dataset, there are Missing values which are marked Green
+
+There are also Illogical datatypes (e.g -2, 0) which are marked RED.
+
+There are 2 conflicting columns namely: Original Product Category and Product Name. I created a dummy column from Product Name by extracting the first four letters which is an abbreviation for Beauty, Electronics, Fashion and Home & Kitchen. But on a closer look, the extracted column and the Original Product Category do not match. 
+
+So  the headache here is;  Should we go with the Product Name or the original Product category for our Analysis?
+
+There are some Customer rating that exceeds  5
+
+Order Date should be greater than or equal to Delivery Date, but in some cases, they are not so.
+
+
+### Some Insights gotten from this data:
+
 - Valid, non-cancelled orders brought in 182,974 from 142 orders, an average order value of 1,289.
 - Electronics earned the most (79,635, 44% of revenue). Home & Kitchen earned the least (24,879).
 - Nigeria leads with 64,325 (35% of revenue). Ghana is the smallest market (15,900).
@@ -93,3 +108,5 @@ There are inconsistent data in
 - Average rating is 3.20 out of 5, and 43% of valid ratings are 4 or 5. Delivered orders took 18.2 days on average to arrive.
 - 26 of 191 rows (14%) were excluded from revenue because of impossible values. The category label disagreed with the product code in 133 rows (70%)
 
+## Conclusion
+After cleaning this dataset, I noticed some missing values and data quality issues. Therefore, to get optimum insights, this data MUST be sent back to the store manager to resolve those clashes
